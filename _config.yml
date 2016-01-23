@@ -1,0 +1,28 @@
+name: Hindu Statistics
+favicon: null
+layout_spectrum: 0.881318069063127
+typography_spectrum: 0.5841114439535886
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6228140860330313
+  lightness: 0.6372373385820538
+  saturation: 0.13655144325457513
+  rhythmicContrast: 0.37234053458087146
+purpose: []
